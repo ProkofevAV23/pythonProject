@@ -1,0 +1,2 @@
+# pythonProject
+обучение Python + автоматизация
